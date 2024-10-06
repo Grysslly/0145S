@@ -1,290 +1,454 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1727809239493 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1728185220139 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727809242572 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728185223218 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727809245640 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728185228385 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727809248720 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728185232886 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727809251786 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728185235961 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727809254868 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728185240409 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727809257966 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728185243484 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727809261039 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728185246546 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727809264110 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728185249655 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727809267182 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728185252733 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727809270273 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728185255811 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727809273364 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728185258875 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727809276480 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728185261942 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727809279616 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728185265004 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727809282686 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1728185280304 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727809285757 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728185283838 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727809288833 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728185286902 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727809291927 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728185289969 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727809295008 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728185293582 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727809298080 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728185296649 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727809301163 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728185299721 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727809304297 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728185302785 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727809307380 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728185305846 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727809310473 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728185308915 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727809313542 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1728185324061 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727809316651 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728185327127 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727809319760 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728185330338 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727809324280 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728185333401 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727809327350 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728185336471 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727809330421 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728185339536 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727809333500 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1728185354622 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727809336605 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728185357689 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727809339711 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728185360759 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727809342793 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728185363842 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727809345865 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728185366913 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727809349338 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728185369975 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727809352410 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728185373038 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727809355897 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728185376104 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727809358961 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728185379172 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727809362035 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728185382240 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727809365111 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728185385306 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727809368185 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728185388404 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727809371265 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728185391471 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727809374351 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728185394576 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727809377428 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728185397661 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727809380514 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728185400787 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727809383613 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728185403855 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727809386689 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728185406938 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727809389765 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728185410109 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727809392852 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728185413202 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727809395935 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728185416299 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727809399003 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728185419367 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727809402086 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728185422431 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727809405979 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728185425498 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727809409067 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728185428571 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727809412142 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728185431638 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727809415247 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1728185434716 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727809418315 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1728185449832 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728185452903 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728185456023 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728185459865 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728185462953 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1728185478063 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728185481150 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728185484216 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728185487276 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728185490336 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1728185505442 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728185508512 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728185511587 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728185514649 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728185517712 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728185520783 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728185523855 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728185526930 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728185529999 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728185533064 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728185536140 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728185539207 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728185542284 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728185545362 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728185548429 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728185551502 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728185554564 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728185557631 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1728185560693 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+improve-trio.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
